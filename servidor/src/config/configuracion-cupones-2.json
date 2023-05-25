@@ -1,0 +1,6 @@
+{
+	"cupones": {
+		"cantidad": 20,
+		"algoritmo": "hexadecimal"
+	}
+}

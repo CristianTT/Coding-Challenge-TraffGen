@@ -1,0 +1,6 @@
+{
+	"cupones": {
+		"cantidad": 15,
+		"algoritmo": "numerosSecuenciales"
+	}
+}
